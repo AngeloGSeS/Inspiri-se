@@ -21,6 +21,7 @@ main {
 }
 
 section {
+  border:black solid 15px;
   background-color: white;
   padding: 15px;
   margin: 20px 0;
